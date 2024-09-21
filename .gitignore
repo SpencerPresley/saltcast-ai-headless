@@ -1,0 +1,12 @@
+env
+venv/
+.env
+saltcast-ai-key-pair.pem
+statData/
+docs/
+_docs/
+data/
+.cursorignore
+.DS_Store
+
+
